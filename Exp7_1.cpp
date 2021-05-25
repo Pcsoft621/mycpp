@@ -15,6 +15,8 @@ class B:private A{
         cout<<"\nc="<<c;
     }
 };
+
+
 int main()
 {
     B t;
